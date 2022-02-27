@@ -5,4 +5,4 @@ The project is given as a pdf report. The database is uploaded separately. The d
 
 # Final results
 
-Please check the PDF report which contains also the queries code. 
+Please check the PDF "CTS Capmaign" report which contains also the queries code. 
